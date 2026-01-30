@@ -46,12 +46,12 @@ https://leave-application.vercel.app
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🛠️ Tech Stack
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🟢 Backend
-  <br>
-      -  React.js
+     <br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;React.js
       <br>
-      -  Node.js
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;Node.js
       <br>
-      -  Bootstrap
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;Bootstrap
       🗄️ Database
       <br>
       -  MySQL
