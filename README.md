@@ -5,23 +5,23 @@ https://leave-application.vercel.app
 
 📌 Core Features
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔐 Authentication & Authorization
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔐 Authentication & Authorization
    <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  Admin Login
-    <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  Employee Login
-    <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  Role-Based Access Control (RBAC)
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  Admin Login
+   <br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  Employee Login
+   <br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  Role-Based Access Control (RBAC)
 
-  📝 Leave Management
-    <br>
-    -  Apply for Leave (Employee)
-    <br>
-    -  Approve / Reject Leave (Authorized User)
-    <br>
-    -  Leave History Tracking
-    <br>
-    -  Real-time Leave Status Updates
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📝 Leave Management
+   <br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  Apply for Leave (Employee)
+   <br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  Approve / Reject Leave (Authorized User)
+   <br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  Leave History Tracking
+   <br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  Real-time Leave Status Updates
 
   💰 Salary Management
     <br>
