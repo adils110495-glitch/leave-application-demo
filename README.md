@@ -5,7 +5,7 @@ https://leave-application.vercel.app
 
 📌 Core Features
 
-  🔐 Authentication & Authorization
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔐 Authentication & Authorization
     -  Admin Login
     <br>
     -  Employee Login
