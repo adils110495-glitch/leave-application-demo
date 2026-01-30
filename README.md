@@ -7,7 +7,7 @@ https://leave-application.vercel.app
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔐 Authentication & Authorization
    <br>
-    -  Admin Login
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  Admin Login
     <br>
     -  Employee Login
     <br>
