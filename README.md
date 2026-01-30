@@ -12,7 +12,7 @@ https://leave-application.vercel.app
 
   📝 Leave Management
     -  Apply for Leave (Employee)
-    -  Approve / Reject Leave (Admin)
+    -  Approve / Reject Leave (Authorized User)
     -  Leave History Tracking
     -  Real-time Leave Status Updates
 
