@@ -7,9 +7,9 @@ https://leave-application.vercel.app
 
   🔐 Authentication & Authorization
     -  Admin Login
-    
+    <br>
     -  Employee Login
-
+    <br>
     -  Role-Based Access Control (RBAC)
 
   📝 Leave Management
