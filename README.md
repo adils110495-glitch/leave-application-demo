@@ -41,6 +41,22 @@
                   -    Netlify
 
 📸 Screenshots
+
+### 📊 Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### 👥 Employee List
+![Employee List](screenshots/employee-list.png)
+
+### ✏️ Update Employee
+![Update Employee](screenshots/update-employee.png)
+
+### 📝 Apply Leave
+![Leave](screenshots/leave.png)
+
+### ➕ Create User
+![Create User](screenshots/user-create.png)
+
 ### 🏢 Company Details
 ![Company Details](screenshots/company-details.png)
 
