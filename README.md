@@ -41,6 +41,8 @@
                   -    Netlify
 
 📸 Screenshots
+### 🏢 Company Details
+![Company Details](screenshots/company-details.png)
 
 
 🔒 Source Code: Private repository. Available upon request.
