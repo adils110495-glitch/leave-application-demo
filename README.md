@@ -38,7 +38,6 @@
                   -    Docker
                   -    Git & GitHub
                   -    Vscode
-                  -    Netlify
 
 📸 Screenshots (See Below)
 
